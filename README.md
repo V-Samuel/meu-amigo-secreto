@@ -54,7 +54,7 @@ Siga os passos abaixo para rodar este projeto na sua máquina local:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/meu-amigo-secreto.git](https://github.com/SEU-USUARIO/meu-amigo-secreto.git)
+    git clone [https://github.com/V-Samuel/meu-amigo-secreto.git]
     cd meu-amigo-secreto
     ```
 
