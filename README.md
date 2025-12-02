@@ -116,8 +116,7 @@ Siga os passos abaixo para rodar este projeto na sua máquina local:
     https://youtu.be/V1GesPoqSfc
 
 11.  **Nome dos Integrantes**
-    Davi Palma Fonseca
-    Victor Samuel Barbosa Silveira
+    Davi Palma Fonseca, Victor Samuel Barbosa Silveira
 
 ## Licença
 
