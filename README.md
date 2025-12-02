@@ -112,6 +112,13 @@ Siga os passos abaixo para rodar este projeto na sua máquina local:
 9.  **Acesse:**
     Abra seu navegador em `http://127.0.0.1:8000`
 
+10.  **Link da Apresentação**
+    https://youtu.be/V1GesPoqSfc
+
+11.  **Nome dos Integrantes**
+    Davi Palma Fonseca
+    Victor Samuel Barbosa Silveira
+
 ## Licença
 
 Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar.
